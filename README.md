@@ -7,4 +7,4 @@ HTML and CSS code wasn't written by me, in this project I practiced React.js
 - The projects on the page are rendered using an array
 - The useParams hook was used
 
-https://github.com/weomweom/portfolio/assets/95056603/61395eed-6b6e-4ab2-994c-5c8d94cabcc4
+https://github.com/weomweom/portfolio/assets/95056603/98ec66c8-9bd6-4a47-800f-a9c366605ef2
