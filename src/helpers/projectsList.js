@@ -4,6 +4,8 @@ import projects02 from "./../img/projects/02.jpg";
 import projects02Big from "./../img/projects/02-big.jpg";
 import projects03 from "./../img/projects/03.jpg";
 import projects03Big from "./../img/projects/03-big.jpg";
+import projects04 from "./../img/projects/04.jpg";
+import projects04Big from "./../img/projects/04-big.jpg";
 
 const projects = [
     {
@@ -26,6 +28,13 @@ const projects = [
         img: projects03,
         imgBig: projects03Big,
         gitHubLink: 'https://github.com/weomweom/memory-game'
+    },
+    {
+        title: 'Currnecy converter',
+        skills: 'React, JS, HTML, CSS, API',
+        img: projects04,
+        imgBig: projects04Big,
+        gitHubLink: 'https://github.com/weomweom/currency-converter'
     }
 ];
 
