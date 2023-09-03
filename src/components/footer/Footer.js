@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="footer__wrapper">
                     <ul className="social">
                         <li className="social__item"><a href="https://github.com/weomweom"><img src={gitHub} alt="Link"/></a></li>
-                        <li className="social__item"><a href="https://www.linkedin.com/in/katsiaryna-sak-811984266/"><img src={linkedIn} alt="Link"/></a></li>
+                        <li className="social__item"><a href="https://www.linkedin.com/in/katsiaryna-sak/"><img src={linkedIn} alt="Link"/></a></li>
                     </ul>
                 </div>
             </div>
